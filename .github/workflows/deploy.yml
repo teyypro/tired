@@ -28,7 +28,7 @@ jobs:
 
       - name: build
         env:
-          BASE_PATH: '/englishs'
+          BASE_PATH: '/tired'
         run: |
           npm run build
 
